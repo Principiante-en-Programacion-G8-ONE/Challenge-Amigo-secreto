@@ -61,6 +61,3 @@ C:/Users/mario/Documents/ORACLE/3. challenge-amigo-secreto/
 
 - Mario Carrizales
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
