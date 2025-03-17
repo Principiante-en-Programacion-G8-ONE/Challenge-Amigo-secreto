@@ -2,7 +2,7 @@
 Amigo Secreto
 </h1>
   
-![STATUS](https://img.shields.io/badge/STATUS-TERMINADO-green)
+![STATUS](https://img.shields.io/badge/ESTATUS-TERMINADO-green)
 
 ## Descripción
 
